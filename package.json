@@ -1,7 +1,7 @@
 {
   "name": "vitereact",
   "version": "0.0.0",
-  "homepage": "https://anandmuthupandi.github.io/myPortfolio/",
+  "homepage": "https://anandmuthupandi.github.io/myPortfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
